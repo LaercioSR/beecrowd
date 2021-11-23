@@ -1,6 +1,6 @@
-# Uri Online Judge
+# Beecrowd
 
-Repository to save my solutions for [Uri Online Judge](https://urionlinejudge.com.br/judge/) challenges.
+Repository to save my solutions for [Beecrowd](https://beecrowd.com.br/judge/) challenges (Formerly called Uri Judge Online).
 
 ## Solutions Table
 
