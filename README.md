@@ -11,8 +11,9 @@ By clicking on the fields you will be redirected:
 
 ID | Challenge | Category | Language | Level | Submission Date
 :-:| :-------: | :------: | :------: | :---: | :-------------:
-[1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](1002.c) | Iniciante | C | 4 | 2017-03-15
+[1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [Hello World!](1000.py) | Iniciante | Python | 5 | 2021-11-29
 [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [Extremamente Básico](1001.c) | Iniciante | C | 4 | 2017-03-15
+[1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [Área do Círculo](1002.c) | Iniciante | C | 4 | 2017-03-15
 [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [Soma Simples](1003.c) | Iniciante | C | 1 | 2017-03-15
 [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [Produto Simples](1004.c) | Iniciante | C | 1 | 2017-03-20
 [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [Média 1](1005.c) | Iniciante | C | 2 | 2017-04-02
