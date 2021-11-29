@@ -52,6 +52,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) | [Mês](1052.py) | Iniciante | Python 3 | 2 | 2019-09-25
 [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) | [Números Pares](1059.c) | Iniciante | C | 1 | 2018-08-13
 [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) | [Números Positivos](1060.py) | Iniciante | Python 3 | 1 | 2018-08-13
+[1060](https://www.beecrowd.com.br/judge/pt/problems/view/1061) | [Números Positivos](1061.py) | Iniciante | Python 3 | 3 | 2021-11-29
 [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | [Números Ímpares](1067.c) | Iniciante | C | 2 | 2018-08-13
 [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | [Seis Números Ímpares](1070.c) | Iniciante | C | 1 | 2018-08-13
 [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](1075.c) | Iniciante | C | 2 | 2018-08-13
