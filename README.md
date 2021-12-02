@@ -33,6 +33,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | [Conversão de Tempo](1019.c) | Iniciante | C | 1 | 2017-05-19
 [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](1020.c) | Iniciante | C | 2 | 2017-05-19
 [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](1021.py) | Iniciante | Python 3 | 4 | 2019-09-25
+[1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [TDA Racional](1022.py) | Estruturas e Bibliotecas | Python 3.8 | 4 | 2021-12-02
 [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](1035.c) | Iniciante | C | 2 | 2018-08-07
 [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](1036.c) | Iniciante | C | 3 | 2018-08-08
 [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](1037.c) | Iniciante | C | 3 | 2018-08-10
