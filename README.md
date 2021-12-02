@@ -58,6 +58,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) | [Pares, Ímpares, Positivos e Negativos](1066.py) | Iniciante | Python 3 | 1 | 2021-12-01
 [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | [Números Ímpares](1067.c) | Iniciante | C | 2 | 2018-08-13
 [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | [Seis Números Ímpares](1070.c) | Iniciante | C | 1 | 2018-08-13
+[1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) | [Seis Números Ímpares](1071.py) | Iniciante | Python 3 | 2 | 2021-12-01
 [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](1075.c) | Iniciante | C | 2 | 2018-08-13
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
