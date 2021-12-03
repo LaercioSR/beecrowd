@@ -34,7 +34,6 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](iniciante/1020.c) | Iniciante | C | 2 | 2017-05-19
 [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](iniciante/1021.py) | Iniciante | Python 3 | 4 | 2019-09-25
 [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [TDA Racional](estruturas/1022.py) | Estruturas e Bibliotecas | Python 3.8 | 4 | 2021-12-02
-<!-- [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Estiagem](estruturas/1023.py) | Estruturas e Bibliotecas | Python 3.8 | 10 | 2021-12-02 -->
 [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](iniciante/1035.c) | Iniciante | C | 2 | 2018-08-07
 [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | [Fórmula de Bhaskara](iniciante/1036.c) | Iniciante | C | 3 | 2018-08-08
 [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | [Intervalo](iniciante/1037.c) | Iniciante | C | 3 | 2018-08-10
@@ -75,3 +74,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) | [Saída 2](iniciante/2748.c) | Iniciante | C | 1 | 2018-08-13
 [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) | [Saída 3](iniciante/2749.py) | Iniciante | Python 3 | 2 | 2019-09-25
 [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) | [Fibonot](iniciante/2846.c) | Iniciante | C | 4 | 2018-08-13
+
+### Unfinished Challenges
+
+ID | Challenge | Category | Language | Level
+:-:| :-------: | :------: | :------: | :---:
+[1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Estiagem](estruturas/1023.py) | Estruturas e Bibliotecas | Python 3.8 | 10
