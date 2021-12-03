@@ -72,6 +72,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2607](https://www.beecrowd.com.br/judge/pt/problems/view/2607) | [Cidades em Ordem Alfabética](sql/2607.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2608](https://www.beecrowd.com.br/judge/pt/problems/view/2608) | [Maior e Menor Preço](sql/2608.sql) | SQL | PostgreSQL | 1 | 2021-09-26
 [2609](https://www.beecrowd.com.br/judge/pt/problems/view/2609) | [Produtos por Categorias](sql/2609.sql) | SQL | PostgreSQL | 6 | 2021-09-26
+[2610](https://www.beecrowd.com.br/judge/pt/problems/view/2610) | [Valor Médio dos Produtos](sql/2610.sql) | SQL | PostgreSQL | 3 | 2021-12-03
 [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) | [Saída 1](iniciante/2747.c) | Iniciante | C | 1 | 2018-08-13
 [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) | [Saída 2](iniciante/2748.c) | Iniciante | C | 1 | 2018-08-13
 [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) | [Saída 3](iniciante/2749.py) | Iniciante | Python 3 | 2 | 2019-09-25
