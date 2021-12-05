@@ -65,7 +65,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) | [Par ou Ímpar](iniciante/1074.cpp) | Iniciante | C++ | 2 | 2021-12-04
 [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](iniciante/1075.c) | Iniciante | C | 2 | 2018-08-13
 [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | [Tabuada](iniciante/1078.cpp) | Iniciante | C++ | 1 | 2021-12-04
-[1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) | [Tabuada](iniciante/1079.cpp) | Iniciante | C++ | 1 | 2021-12-05
+[1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) | [Médias Ponderadas](iniciante/1079.cpp) | Iniciante | C++ | 1 | 2021-12-05
+[1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) | [Maior e Posição](iniciante/1080.cpp) | Iniciante | C++ | 2 | 2021-12-05
+[1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) | [Experiências](iniciante/1094.cpp) | Iniciante | C++ | 3 | 2021-12-05
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
