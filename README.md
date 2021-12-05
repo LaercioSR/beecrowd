@@ -63,6 +63,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | [Intervalo 2](iniciante/1072.cpp) | Iniciante | C++ | 1 | 2021-12-03
 [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) | [Quadrado de Pares](iniciante/1073.cpp) | Iniciante | C++ | 1 | 2021-12-03
 [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) | [Par ou Ímpar](iniciante/1074.cpp) | Iniciante | C++ | 2 | 2021-12-04
+[1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) | [Tabuada](iniciante/1078.cpp) | Iniciante | C++ | 2 | 2021-12-04
 [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) | [Resto 2](iniciante/1075.c) | Iniciante | C | 2 | 2018-08-13
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
