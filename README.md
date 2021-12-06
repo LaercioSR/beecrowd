@@ -70,6 +70,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) | [Maior e Posição](iniciante/1080.cpp) | Iniciante | C++ | 2 | 2021-12-05
 [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) | [Experiências](iniciante/1094.cpp) | Iniciante | C++ | 3 | 2021-12-05
 [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) | [Sequencia IJ 1](iniciante/1095.cpp) | Iniciante | C++ | 1 | 2021-12-05
+[1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) | [Sequencia IJ 2](iniciante/1096.cpp) | Iniciante | C++ | 1 | 2021-12-06
+[1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) | [Sequencia IJ 3](iniciante/1097.cpp) | Iniciante | C++ | 1 | 2021-12-06
+[1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | [Sequencia IJ 4](iniciante/1098.cpp) | Iniciante | C++ | 2 | 2021-12-06
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
