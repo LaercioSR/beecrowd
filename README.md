@@ -75,6 +75,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | [Sequencia IJ 4](iniciante/1098.cpp) | Iniciante | C++ | 2 | 2021-12-06
 [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) | [Soma de Ímpares Consecutivos II](iniciante/1099.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) | [Sequência de Números e Soma](iniciante/1101.cpp) | Iniciante | C++ | 4 | 2021-12-06
+[1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) | [Crescente e Decrescente](iniciante/1113.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
