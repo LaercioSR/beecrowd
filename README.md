@@ -91,6 +91,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) | [Saída 2](iniciante/2748.c) | Iniciante | C | 1 | 2018-08-13
 [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) | [Saída 3](iniciante/2749.py) | Iniciante | Python 3 | 2 | 2019-09-25
 [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) | [Fibonot](iniciante/2846.c) | Iniciante | C | 4 | 2018-08-13
+[2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) | [Errrou!](ad-hoc/2868.cpp) | AD-HOC | C++ | 1 | 2021-12-07
 
 ### Unfinished Challenges
 
