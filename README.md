@@ -82,6 +82,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1116](https://www.beecrowd.com.br/judge/pt/problems/view/1116) | [Dividindo X por Y](iniciante/1116.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) | [Validação de Nota](iniciante/1117.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) | [Várias Notas Com Validação](iniciante/1118.cpp) | Iniciante | C++ | 3 | 2021-12-07
+[1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) | [Grenais](iniciante/1131.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
