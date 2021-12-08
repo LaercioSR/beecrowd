@@ -34,6 +34,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | [Idade em Dias](iniciante/1020.c) | Iniciante | C | 2 | 2017-05-19
 [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | [Notas e Moedas](iniciante/1021.py) | Iniciante | Python 3 | 4 | 2019-09-25
 [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [TDA Racional](estruturas/1022.py) | Estruturas e Bibliotecas | Python 3.8 | 4 | 2021-12-02
+[1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Estiagem](estruturas/1023.cpp) | Estruturas e Bibliotecas | C++ | 10 | 2021-12-08
 [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Criptografia](strings/1024.cpp) | Strings | C++ | 5 | 2021-12-06
 [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) | [Carrega ou não Carrega?](ad-hoc/1026.cpp) | AD-HOC | C++ | 5 | 2021-12-07
 [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) | [Figurinhas](matematica/1028.cpp) | Matemática | C++ | 3 | 2021-12-08
@@ -112,4 +113,3 @@ ID | Challenge | Category | Language | Level | Submission Date
 
 ID | Challenge | Category | Language | Level
 :-:| :-------: | :------: | :------: | :---:
-[1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Estiagem](estruturas/1023.py) | Estruturas e Bibliotecas | Python 3.8 | 10
