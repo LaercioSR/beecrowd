@@ -86,6 +86,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) | [Múltiplos de 13](iniciante/1132.cpp) | Iniciante | C++ | 1 | 2021-12-08
 [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) | [Resto da Divisão](iniciante/1133.cpp) | Iniciante | C++ | 3 | 2021-12-08
 [1134](https://www.beecrowd.com.br/judge/pt/problems/view/1134) | [Tipo de Combustível](iniciante/1134.cpp) | Iniciante | C++ | 1 | 2021-12-08
+[1142](https://www.beecrowd.com.br/judge/pt/problems/view/1142) | [PUM](iniciante/1142.cpp) | Iniciante | C++ | 1 | 2021-12-08
+[1143](https://www.beecrowd.com.br/judge/pt/problems/view/1143) | [Quadrado e ao Cubo](iniciante/1143.cpp) | Iniciante | C++ | 1 | 2021-12-08
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
