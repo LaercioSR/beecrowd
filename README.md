@@ -36,6 +36,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) | [TDA Racional](estruturas/1022.py) | Estruturas e Bibliotecas | Python 3.8 | 4 | 2021-12-02
 [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) | [Estiagem](estruturas/1023.cpp) | Estruturas e Bibliotecas | C++ | 10 | 2021-12-08
 [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) | [Criptografia](strings/1024.cpp) | Strings | C++ | 5 | 2021-12-06
+[1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) | [Onde está o Mármore?](estruturas/1025.cpp) | Estruturas e Bibliotecas | C++ | 5 | 2021-12-09
 [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) | [Carrega ou não Carrega?](ad-hoc/1026.cpp) | AD-HOC | C++ | 5 | 2021-12-07
 [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) | [Figurinhas](matematica/1028.cpp) | Matemática | C++ | 3 | 2021-12-08
 [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | [Teste de Seleção 1](iniciante/1035.c) | Iniciante | C | 2 | 2018-08-07
