@@ -94,6 +94,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1144](https://www.beecrowd.com.br/judge/pt/problems/view/1144) | [Sequência Lógica](iniciante/1144.py) | Iniciante | Python 3 | 1 | 2019-09-25
 [1145](https://www.beecrowd.com.br/judge/pt/problems/view/1145) | [Sequência Lógica 2](iniciante/1145.cpp) | Iniciante | C++ | 2 | 2021-12-08
 [1146](https://www.beecrowd.com.br/judge/pt/problems/view/1146) | [Sequências Crescentes](iniciante/1146.cpp) | Iniciante | C++ | 3 | 2021-12-08
+[1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) | [Somando Inteiros Consecutivos](iniciante/1149.cpp) | Iniciante | C++ | 1 | 2021-12-10
+[1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) | [Ultrapassando Z](iniciante/1150.cpp) | Iniciante | C++ | 1 | 2021-12-10
+[1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) | [Fibonacci Fácil](iniciante/1151.cpp) | Iniciante | C++ | 2 | 2021-12-10
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
