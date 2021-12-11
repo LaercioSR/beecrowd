@@ -97,6 +97,14 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1149](https://www.beecrowd.com.br/judge/pt/problems/view/1149) | [Somando Inteiros Consecutivos](iniciante/1149.cpp) | Iniciante | C++ | 1 | 2021-12-10
 [1150](https://www.beecrowd.com.br/judge/pt/problems/view/1150) | [Ultrapassando Z](iniciante/1150.cpp) | Iniciante | C++ | 1 | 2021-12-10
 [1151](https://www.beecrowd.com.br/judge/pt/problems/view/1151) | [Fibonacci Fácil](iniciante/1151.cpp) | Iniciante | C++ | 2 | 2021-12-10
+[1153](https://www.beecrowd.com.br/judge/pt/problems/view/1153) | [Fatorial Simples](iniciante/1153.cpp) | Iniciante | C++ | 1 | 2021-12-11
+[1154](https://www.beecrowd.com.br/judge/pt/problems/view/1154) | [Idades](iniciante/1154.cpp) | Iniciante | C++ | 1 | 2021-12-11
+[1155](https://www.beecrowd.com.br/judge/pt/problems/view/1155) | [Sequência S](iniciante/1155.cpp) | Iniciante | C++ | 2 | 2021-12-11
+[1156](https://www.beecrowd.com.br/judge/pt/problems/view/1156) | [Sequência S II](iniciante/1156.cpp) | Iniciante | C++ | 2 | 2021-12-11
+[1157](https://www.beecrowd.com.br/judge/pt/problems/view/1157) | [Divisores I](iniciante/1157.cpp) | Iniciante | C++ | 1 | 2021-12-11
+[1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](iniciante/1158.cpp) | Iniciante | C++ | 1 | 2021-12-11
+[1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | [Soma de Pares Consecutivos](iniciante/1159.cpp) | Iniciante | C++ | 2 | 2021-12-11
+[1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | [Crescimento Populacional](iniciante/1160.cpp) | Iniciante | C++ | 5 | 2021-12-11
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
