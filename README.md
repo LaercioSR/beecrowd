@@ -113,7 +113,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) | [Fibonot](iniciante/2846.c) | Iniciante | C | 4 | 2018-08-13
 [2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) | [Errrou!](ad-hoc/2868.cpp) | AD-HOC | C++ | 1 | 2021-12-07
 
-### Unfinished Challenges
+### Contents
 
-ID | Challenge | Category | Language | Level
-:-:| :-------: | :------: | :------: | :---:
+Content | Challenge | Language | Date
+:-----: | :-------: | :------: | :-----: |
+[SAP LABS ONLINE CONTEST - 3RD EDITION](https://www.beecrowd.com.br/judge/pt/challenges/view/628/2) | [Belas Luzes](contents/sap-3/b.cpp) | C++ | 2021-12-11
