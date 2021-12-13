@@ -106,6 +106,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | [Soma de Pares Consecutivos](iniciante/1159.cpp) | Iniciante | C++ | 2 | 2021-12-11
 [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | [Crescimento Populacional](iniciante/1160.cpp) | Iniciante | C++ | 5 | 2021-12-11
 [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | [Número Perfeito](iniciante/1164.cpp) | Iniciante | C++ | 2 | 2021-12-12
+[1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) | [Número Primo](iniciante/1165.cpp) | Iniciante | C++ | 2 | 2021-12-13
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
