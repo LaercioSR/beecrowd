@@ -108,6 +108,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | [Número Perfeito](iniciante/1164.cpp) | Iniciante | C++ | 2 | 2021-12-12
 [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) | [Número Primo](iniciante/1165.cpp) | Iniciante | C++ | 2 | 2021-12-13
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
+[1172](https://www.beecrowd.com.br/judge/pt/problems/view/1172) | [Substituição em Vetor I](iniciante/1172.cpp) | Iniciante | C++ | 1 | 2021-12-14
+[1173](https://www.beecrowd.com.br/judge/pt/problems/view/1173) | [Preenchimento de Vetor I](iniciante/1173.cpp) | Iniciante | C++ | 1 | 2021-12-14
+[1174](https://www.beecrowd.com.br/judge/pt/problems/view/1174) | [Seleçao em Vetor I](iniciante/1174.cpp) | Iniciante | C++ | 3 | 2021-12-14
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
