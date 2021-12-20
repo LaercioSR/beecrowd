@@ -117,6 +117,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1178](https://www.beecrowd.com.br/judge/pt/problems/view/1178) | [Preenchimento de Vetor III](iniciante/1178.cpp) | Iniciante | C++ | 2 | 2021-12-18
 [1179](https://www.beecrowd.com.br/judge/pt/problems/view/1179) | [Preenchimento de Vetor IV](iniciante/1179.cpp) | Iniciante | C++ | 2 | 2021-12-19
 [1180](https://www.beecrowd.com.br/judge/pt/problems/view/1180) | [Menor e Posição](iniciante/1180.cpp) | Iniciante | C++ | 3 | 2021-12-19
+[1181](https://www.beecrowd.com.br/judge/pt/problems/view/1181) | [Linha na Matriz](iniciante/1181.cpp) | Iniciante | C++ | 3 | 2021-12-20
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
