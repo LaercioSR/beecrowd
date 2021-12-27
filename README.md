@@ -121,7 +121,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1182](https://www.beecrowd.com.br/judge/pt/problems/view/1182) | [Coluna na Matriz](iniciante/1182.cpp) | Iniciante | C++ | 2 | 2021-12-21
 [1183](https://www.beecrowd.com.br/judge/pt/problems/view/1183) | [Acima da Diagonal Principal](iniciante/1183.cpp) | Iniciante | C++ | 4 | 2021-12-23
 [1184](https://www.beecrowd.com.br/judge/pt/problems/view/1184) | [Abaixo da Diagonal Principal](iniciante/1184.cpp) | Iniciante | C++ | 2 | 2021-12-24
-[1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) | [Acima da Diagonal Secundário](iniciante/1185.cpp) | Iniciante | C++ | 2 | 2021-12-24
+[1185](https://www.beecrowd.com.br/judge/pt/problems/view/1185) | [Acima da Diagonal Secundário](iniciante/1185.cpp) | Iniciante | C++ | 2 | 2021-12-25
+[1186](https://www.beecrowd.com.br/judge/pt/problems/view/1186) | [Abaixo da Diagonal Secundário](iniciante/1186.cpp) | Iniciante | C++ | 2 | 2021-12-26
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
