@@ -126,6 +126,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1187](https://www.beecrowd.com.br/judge/pt/problems/view/1187) | [Área Superior](iniciante/1187.cpp) | Iniciante | C++ | 3 | 2021-12-28
 [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) | [Área Inferior](iniciante/1188.cpp) | Iniciante | C++ | 1 | 2022-05-15
 [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) | [Área Esquerda](iniciante/1189.cpp) | Iniciante | C++ | 2 | 2022-05-16
+[1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) | [Área Direita](iniciante/1190.cpp) | Iniciante | C++ | 1 | 2022-05-18
+[1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
+[1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
