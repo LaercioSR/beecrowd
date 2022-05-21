@@ -105,6 +105,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1158](https://www.beecrowd.com.br/judge/pt/problems/view/1158) | [Soma de Ímpares Consecutivos III](iniciante/1158.cpp) | Iniciante | C++ | 1 | 2021-12-11
 [1159](https://www.beecrowd.com.br/judge/pt/problems/view/1159) | [Soma de Pares Consecutivos](iniciante/1159.cpp) | Iniciante | C++ | 2 | 2021-12-11
 [1160](https://www.beecrowd.com.br/judge/pt/problems/view/1160) | [Crescimento Populacional](iniciante/1160.cpp) | Iniciante | C++ | 5 | 2021-12-11
+[1161](https://www.beecrowd.com.br/judge/pt/problems/view/1161) | [Soma de Fatoriais](matematica/1161.cpp) | Matemática | C++ | 5 | 2022-05-19
 [1164](https://www.beecrowd.com.br/judge/pt/problems/view/1164) | [Número Perfeito](iniciante/1164.cpp) | Iniciante | C++ | 2 | 2021-12-12
 [1165](https://www.beecrowd.com.br/judge/pt/problems/view/1165) | [Número Primo](iniciante/1165.cpp) | Iniciante | C++ | 2 | 2021-12-13
 [1168](https://www.beecrowd.com.br/judge/pt/problems/view/1168) | [LED](strings/1168.cpp) | Strings | C++ | 3 | 2021-12-06
@@ -127,6 +128,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) | [Área Inferior](iniciante/1188.cpp) | Iniciante | C++ | 1 | 2022-05-15
 [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) | [Área Esquerda](iniciante/1189.cpp) | Iniciante | C++ | 2 | 2022-05-16
 [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) | [Área Direita](iniciante/1190.cpp) | Iniciante | C++ | 1 | 2022-05-18
+[1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) | [Matriz Quadrada I](iniciante/1435.cpp) | Matemática | C++ | 2 | 2022-05-20
+[1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) | [Funções](matematica/1555.cpp) | Matemática | C++ | 1 | 2022-05-19
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
