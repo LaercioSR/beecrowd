@@ -128,8 +128,10 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) | [Área Inferior](iniciante/1188.cpp) | Iniciante | C++ | 1 | 2022-05-15
 [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) | [Área Esquerda](iniciante/1189.cpp) | Iniciante | C++ | 2 | 2022-05-16
 [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) | [Área Direita](iniciante/1190.cpp) | Iniciante | C++ | 1 | 2022-05-18
+[1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) | [Cifra de César](strings/1253.cpp) | Strings | C++ | 3 | 2022-05-22
 [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) | [Matriz Quadrada I](iniciante/1435.cpp) | Matemática | C++ | 2 | 2022-05-20
 [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) | [Funções](matematica/1555.cpp) | Matemática | C++ | 1 | 2022-05-19
+[1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) | [Bob Conduite](iniciante/1589.cpp) | Iniciante | C++ | 1 | 2022-05-22
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
