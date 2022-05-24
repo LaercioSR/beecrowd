@@ -63,6 +63,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) | [Pares entre Cinco Números](iniciante/1065.py) | Iniciante | Python 3 | 1 | 2018-08-20
 [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) | [Pares, Ímpares, Positivos e Negativos](iniciante/1066.py) | Iniciante | Python 3 | 1 | 2021-12-01
 [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) | [Números Ímpares](iniciante/1067.c) | Iniciante | C | 2 | 2018-08-13
+[1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) | [Balanço de Parênteses I](estruturas/1068.cpp) | Estruturas e Bibliotecas | C++ | 5 | 2022-05-23
 [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) | [Seis Números Ímpares](iniciante/1070.c) | Iniciante | C | 1 | 2018-08-13
 [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) | [Soma de Impares Consecutivos I](iniciante/1071.py) | Iniciante | Python 3 | 2 | 2021-12-01
 [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) | [Intervalo 2](iniciante/1072.cpp) | Iniciante | C++ | 1 | 2021-12-03
@@ -79,6 +80,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) | [Sequencia IJ 4](iniciante/1098.cpp) | Iniciante | C++ | 2 | 2021-12-06
 [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) | [Soma de Ímpares Consecutivos II](iniciante/1099.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) | [Sequência de Números e Soma](iniciante/1101.cpp) | Iniciante | C++ | 4 | 2021-12-06
+[1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) | [Alarme Despertador](ad-hoc/1103.cpp) | AD-HOC | C++ | 4 | 2022-05-23
 [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) | [Crescente e Decrescente](iniciante/1113.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) | [Senha Fixa](iniciante/1114.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1115](https://www.beecrowd.com.br/judge/pt/problems/view/1115) | [Quadrante](iniciante/1115.cpp) | Iniciante | C++ | 1 | 2021-12-07
@@ -131,10 +133,12 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1238](https://www.beecrowd.com.br/judge/pt/problems/view/1238) | [Combinador](strings/1238.cpp) | Strings | C++ | 3 | 2022-05-23
 [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) | [Cifra de César](strings/1253.cpp) | Strings | C++ | 3 | 2022-05-22
 [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) | [Matriz Quadrada I](iniciante/1435.cpp) | Matemática | C++ | 2 | 2022-05-20
+[1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) | [Matriz 123](iniciante/1534.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) | [Funções](matematica/1555.cpp) | Matemática | C++ | 1 | 2022-05-19
 [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) | [Bob Conduite](iniciante/1589.cpp) | Iniciante | C++ | 1 | 2022-05-22
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
+[1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
