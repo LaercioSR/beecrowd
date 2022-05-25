@@ -141,8 +141,11 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) | [A Corrida de Lesmas](iniciante/1789.cpp) | Iniciante | C++ | 3 | 2022-05-24
+[1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
 [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
+[2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) | [Conta de Água](ad-hoc/2369.cpp) | AD-HOC | C++ | 1 | 2022-05-25
+[2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) | [Pneu](ad-hoc/2374.cpp) | AD-HOC | C++ | 1 | 2022-05-25
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
