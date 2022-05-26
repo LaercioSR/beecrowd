@@ -4,12 +4,56 @@
 
 using namespace std;
 
+int n, m;
+char arr[100][100];
+
+bool checkBombs(int x, int y) {
+    arr[x][y] = 'o';
+
+    if(x-1 >= 0 && arr[x-1][y] == '*') {
+        if(!checkBombs(x-1, y)) {
+            arr[x][y] = '*';
+            return false;
+        }
+    } else if(x-1 >= 0 && arr[x-1][y] == '#') {
+        arr[x][y] = '*';
+        return false;
+    }
+    if(x+1 < n && arr[x+1][y] == '*') {
+        if(!checkBombs(x+1, y)) {
+            arr[x][y] = '*';
+            return false;
+        }
+    } else if(x+1 < n && arr[x+1][y] == '#') {
+        arr[x][y] = '*';
+        return false;
+    }
+    if(y-1 >= 0 && arr[x][y-1] == '*') {
+        if(!checkBombs(x, y-1)) {
+            arr[x][y] = '*';
+            return false;
+        }
+    } else if(y-1 >= 0 && arr[x][y-1] == '#') {
+        arr[x][y] = '*';
+        return false;
+    }
+    if(y+1 < m && arr[x][y+1] == '*') {
+        if(!checkBombs(x, y+1)) {
+            arr[x][y] = '*';
+            return false;
+        }
+    } else if(y+1 < m && arr[x][y+1] == '#') {
+        arr[x][y] = '*';
+        return false;
+    }
+    return true;
+}
+
 int main() {
-    int n, m, count = 0;
+    int count = 0;
 
     cin >> n >> m;
 
-    char arr[n][m];
     for(int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
             cin >> arr[i][j];
@@ -28,6 +72,14 @@ int main() {
 
         if (arr[l][c] == '#') {
             arr[l][c] = '*';
+        }
+    }
+
+    for(int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            if (arr[i][j] == '*' && checkBombs(i, j)) {
+                count++;
+            }
         }
     }
 

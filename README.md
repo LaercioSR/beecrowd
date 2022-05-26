@@ -145,6 +145,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) | [Conta de Água](ad-hoc/2369.cpp) | AD-HOC | C++ | 1 | 2022-05-25
+[2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) | [Batalha Naval](ad-hoc/2371.cpp) | AD-HOC | C++ | 8 | 2022-05-26
 [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) | [Pneu](ad-hoc/2374.cpp) | AD-HOC | C++ | 1 | 2022-05-25
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
