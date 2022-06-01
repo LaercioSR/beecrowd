@@ -139,7 +139,9 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1188](https://www.beecrowd.com.br/judge/pt/problems/view/1188) | [Área Inferior](iniciante/1188.cpp) | Iniciante | C++ | 1 | 2022-05-15
 [1189](https://www.beecrowd.com.br/judge/pt/problems/view/1189) | [Área Esquerda](iniciante/1189.cpp) | Iniciante | C++ | 2 | 2022-05-16
 [1190](https://www.beecrowd.com.br/judge/pt/problems/view/1190) | [Área Direita](iniciante/1190.cpp) | Iniciante | C++ | 1 | 2022-05-18
+[1192](https://www.beecrowd.com.br/judge/pt/problems/view/1192) | [O jogo Matemático de Paula](ad-hoc/1192.cpp) | AD-HOC  | C++ | 2 | 2022-06-01
 [1197](https://www.beecrowd.com.br/judge/pt/problems/view/1197) | [Volta à Faculdade de Física](matematica/1197.cpp) | Matemática | C++ | 1 | 2022-06-01
+[1198](https://www.beecrowd.com.br/judge/pt/problems/view/1198) | [O Bravo Guerreiro Hashmat](matematica/1198.cpp) | Matemática | C++ | 5 | 2022-06-01
 [1221](https://www.beecrowd.com.br/judge/pt/problems/view/1221) | [Primo Rápido](matematica/1221.cpp) | Matemática | C++ | 6 | 2022-05-30
 [1234](https://www.beecrowd.com.br/judge/pt/problems/view/1234) | [Sentença Dançante](strings/1234.cpp) | Strings | C++ | 3 | 2022-05-30
 [1235](https://www.beecrowd.com.br/judge/pt/problems/view/1235) | [De Dentro para Fora](strings/1235.cpp) | Strings | C++ | 5 | 2022-06-01
@@ -148,6 +150,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) | [Encaixa ou Não II](strings/1241.cpp) | Strings | C++ | 2 | 2022-05-31
 [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) | [Cifra de César](strings/1253.cpp) | Strings | C++ | 3 | 2022-05-22
 [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Pares e Ímpares](estruturas/1259.cpp) | Estruturas e Bibliotecas | C++ | 4 | 2022-05-31
+[1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) | [Mensagem Oculta](strings/1272.cpp) | Strings | C++ | 3 | 2022-06-01
 [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) | [Cara ou Coroa](ad-hoc/1329.cpp) | AD-HOC | C++ | 2 | 2022-05-29
 [1332](https://www.beecrowd.com.br/judge/pt/problems/view/1332) | [Um-Dois-Três](strings/1332.cpp) | Strings | C++ | 2 | 2022-05-29
 [1379](https://www.beecrowd.com.br/judge/pt/problems/view/1379) | [Problema com Mediana e Média](ad-hoc/1379.cpp) | AD-HOC | C++ | 1 | 2022-05-31
