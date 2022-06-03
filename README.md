@@ -94,6 +94,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1117](https://www.beecrowd.com.br/judge/pt/problems/view/1117) | [Validação de Nota](iniciante/1117.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1118](https://www.beecrowd.com.br/judge/pt/problems/view/1118) | [Várias Notas Com Validação](iniciante/1118.cpp) | Iniciante | C++ | 3 | 2021-12-07
 [1120](https://www.beecrowd.com.br/judge/pt/problems/view/1120) | [Revisão de Contrato](strings/1120.cpp) | Strings | C++ | 5 | 2022-05-27
+[1129](https://www.beecrowd.com.br/judge/pt/problems/view/1129) | [Leitura Ótica](ad-hoc/1129.cpp) | AD-HOC | C++ | 1 | 2022-06-02
 [1131](https://www.beecrowd.com.br/judge/pt/problems/view/1131) | [Grenais](iniciante/1131.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1132](https://www.beecrowd.com.br/judge/pt/problems/view/1132) | [Múltiplos de 13](iniciante/1132.cpp) | Iniciante | C++ | 1 | 2021-12-08
 [1133](https://www.beecrowd.com.br/judge/pt/problems/view/1133) | [Resto da Divisão](iniciante/1133.cpp) | Iniciante | C++ | 3 | 2021-12-08
@@ -149,6 +150,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1240](https://www.beecrowd.com.br/judge/pt/problems/view/1240) | [Encaixa ou Não I](strings/1240.cpp) | Strings | C++ | 2 | 2022-06-01
 [1241](https://www.beecrowd.com.br/judge/pt/problems/view/1241) | [Encaixa ou Não II](strings/1241.cpp) | Strings | C++ | 2 | 2022-05-31
 [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) | [Cifra de César](strings/1253.cpp) | Strings | C++ | 3 | 2022-05-22
+[1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) | [Frequência de Letras](strings/1255.cpp) | Strings | C++ | 3 | 2022-06-01
 [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Pares e Ímpares](estruturas/1259.cpp) | Estruturas e Bibliotecas | C++ | 4 | 2022-05-31
 [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) | [Mensagem Oculta](strings/1272.cpp) | Strings | C++ | 3 | 2022-06-01
 [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) | [Cara ou Coroa](ad-hoc/1329.cpp) | AD-HOC | C++ | 2 | 2022-05-29
@@ -176,6 +178,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) | [Times](ad-hoc/2370.cpp) | AD-HOC | C++ | 3 | 2022-05-27
 [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) | [Batalha Naval](ad-hoc/2371.cpp) | AD-HOC | C++ | 8 | 2022-05-26
 [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) | [Pneu](ad-hoc/2374.cpp) | AD-HOC | C++ | 1 | 2022-05-25
+[2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) | [Flíper](ad-hoc/2454.cpp) | AD-HOC | C++ | 1 | 2022-06-01
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
