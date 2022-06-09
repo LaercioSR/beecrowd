@@ -182,6 +182,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) | [A Corrida de Lesmas](iniciante/1789.cpp) | Iniciante | C++ | 3 | 2022-05-24
+[1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) | [Soma Natural](matematica/1805.cpp) | Matemática | C++ | 6 | 2022-06-08
 [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
 [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) | [Bem-vindos e Bem-vindas ao Inverno!](iniciante/1847.cpp) | Iniciante | C++ | 4 | 2022-06-07
 [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) | [Mjölnir](iniciante/1865.cpp) | Iniciante | C++ | 1 | 2022-05-29
@@ -200,6 +201,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) | [Pneu](ad-hoc/2374.cpp) | AD-HOC | C++ | 1 | 2022-05-25
 [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) | [Busca na Internet](ad-hoc/2413.cpp) | AD-HOC | C++ | 1 | 2022-06-06
 [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) | [Flíper](ad-hoc/2454.cpp) | AD-HOC | C++ | 1 | 2022-06-01
+[2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) | [Gangorra](ad-hoc/2455.cpp) | AD-HOC | C++ | 1 | 2022-06-09
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
