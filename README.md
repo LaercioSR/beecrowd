@@ -172,6 +172,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) | [Zerinho ou Um](ad-hoc/1467.cpp) | AD-HOC | C++ | 2 | 2022-05-29
 [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) | [Mergulho](ad-hoc/1471.cpp) | AD-HOC | C++ | 3 | 2022-06-10
 [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) | [Matriz Quadrada II](iniciante/1478.cpp) | Iniciante | C++ | 1 | 2022-05-28
+[1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) | [Hello Galaxy](ad-hoc/1515.cpp) | AD-HOC | C++ | 1 | 2022-06-11
 [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) | [Detetive Watson](ad-hoc/1533.cpp) | AD-HOC | C++ | 2 | 2022-06-08
 [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) | [Matriz 123](iniciante/1534.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) | [Feedback](ad-hoc/1546.cpp) | AD-HOC | C++ | 1 | 2022-06-03
@@ -188,7 +189,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
 [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) | [Bem-vindos e Bem-vindas ao Inverno!](iniciante/1847.cpp) | Iniciante | C++ | 4 | 2022-06-07
 [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) | [Mjölnir](iniciante/1865.cpp) | Iniciante | C++ | 1 | 2022-05-29
-[1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-05-23
+[1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Coloração de Cenários de Jogos](grafos/1866.cpp) | Grafos | C++ | 5 | 2022-06-06
+[1907](https://www.beecrowd.com.br/judge/pt/problems/view/1907) | [Tomadas](iniciante/1907.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) | [Tri-du](iniciante/1933.cpp) | Iniciante | C++ | 1 | 2022-05-28
 [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) | [Top N](ad-hoc/1943.cpp) | AD-HOC | C++ | 1 | 2022-06-08
@@ -231,3 +233,6 @@ ID | Challenge | Category | Language | Level | Submission Date
 Content | Challenge | Language | Date
 :-----: | :-------: | :------: | :-----: |
 [SAP LABS ONLINE CONTEST - 3RD EDITION](https://www.beecrowd.com.br/judge/pt/challenges/view/628/2) | [Belas Luzes](contents/sap-3/b.cpp) | C++ | 2021-12-11
+[SAP HUNGARY - ONLINE CODING CONTEST](https://www.beecrowd.com.br/judge/pt/challenges/view/656/3) | [Desafio C](contents/sap-hungary/b.cpp) | C++ | 2022-06-11
+[SAP HUNGARY - ONLINE CODING CONTEST](https://www.beecrowd.com.br/judge/pt/challenges/view/656/8) | [Desafio H](contents/sap-hungary/b.cpp) | C++ | 2022-06-11
+[SAP HUNGARY - ONLINE CODING CONTEST](https://www.beecrowd.com.br/judge/pt/challenges/view/656/10) | [Desafio C](contents/sap-hungary/b.cpp) | C++ | 2022-06-11
