@@ -170,6 +170,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1435](https://www.beecrowd.com.br/judge/pt/problems/view/1435) | [Matriz Quadrada I](iniciante/1435.cpp) | Iniciante | C++ | 2 | 2022-05-20
 [1437](https://www.beecrowd.com.br/judge/pt/problems/view/1437) | [Esquerda, Volver!](ad-hoc/1437.cpp) | AD-HOC | C++ | 2 | 2022-06-06
 [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) | [Zerinho ou Um](ad-hoc/1467.cpp) | AD-HOC | C++ | 2 | 2022-05-29
+[1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) | [Mergulho](ad-hoc/1471.cpp) | AD-HOC | C++ | 3 | 2022-06-10
 [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) | [Matriz Quadrada II](iniciante/1478.cpp) | Iniciante | C++ | 1 | 2022-05-28
 [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) | [Detetive Watson](ad-hoc/1533.cpp) | AD-HOC | C++ | 2 | 2022-06-08
 [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) | [Matriz 123](iniciante/1534.cpp) | Iniciante | C++ | 1 | 2022-05-23
@@ -182,6 +183,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) | [A Corrida de Lesmas](iniciante/1789.cpp) | Iniciante | C++ | 3 | 2022-05-24
+[1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) | [Economia Brasileira](ad-hoc/1796.cpp) | AD-HOC | C++ | 2 | 2022-06-10
 [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) | [Soma Natural](matematica/1805.cpp) | Matemática | C++ | 6 | 2022-06-08
 [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
 [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) | [Bem-vindos e Bem-vindas ao Inverno!](iniciante/1847.cpp) | Iniciante | C++ | 4 | 2022-06-07
