@@ -87,6 +87,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) | [Soma de Ímpares Consecutivos II](iniciante/1099.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1101](https://www.beecrowd.com.br/judge/pt/problems/view/1101) | [Sequência de Números e Soma](iniciante/1101.cpp) | Iniciante | C++ | 4 | 2021-12-06
 [1103](https://www.beecrowd.com.br/judge/pt/problems/view/1103) | [Alarme Despertador](ad-hoc/1103.cpp) | AD-HOC | C++ | 4 | 2022-05-23
+[1104](https://www.beecrowd.com.br/judge/pt/problems/view/1104) | [Troca de Cartas](ad-hoc/1104.cpp) | AD-HOC | C++ | 4 | 2022-06-12
 [1110](https://www.beecrowd.com.br/judge/pt/problems/view/1110) | [Jogando Cartas Fora](estruturas/1110.cpp) | Estruturas e Bibliotecas | C++ | 3 | 2022-05-29
 [1113](https://www.beecrowd.com.br/judge/pt/problems/view/1113) | [Crescente e Decrescente](iniciante/1113.cpp) | Iniciante | C++ | 1 | 2021-12-07
 [1114](https://www.beecrowd.com.br/judge/pt/problems/view/1114) | [Senha Fixa](iniciante/1114.cpp) | Iniciante | C++ | 1 | 2021-12-07
@@ -184,6 +185,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) | [A Corrida de Lesmas](iniciante/1789.cpp) | Iniciante | C++ | 3 | 2022-05-24
+[1794](https://www.beecrowd.com.br/judge/pt/problems/view/1794) | [Lavanderia](ad-hoc/1794.cpp) | AD-HOC | C++ | 1 | 2022-06-12
 [1796](https://www.beecrowd.com.br/judge/pt/problems/view/1796) | [Economia Brasileira](ad-hoc/1796.cpp) | AD-HOC | C++ | 2 | 2022-06-10
 [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) | [Soma Natural](matematica/1805.cpp) | Matemática | C++ | 6 | 2022-06-08
 [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
