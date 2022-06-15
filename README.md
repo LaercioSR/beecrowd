@@ -180,6 +180,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) | [Hello Galaxy](ad-hoc/1515.cpp) | AD-HOC | C++ | 1 | 2022-06-11
 [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) | [Detetive Watson](ad-hoc/1533.cpp) | AD-HOC | C++ | 2 | 2022-06-08
 [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) | [Matriz 123](iniciante/1534.cpp) | Iniciante | C++ | 1 | 2022-05-23
+[1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) | [Libertadores](ad-hoc/1536.cpp) | AD-HOC | C++ | 3 | 2022-06-15
+[1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) | [Lendo Livros](ad-hoc/1542.cpp) | AD-HOC | C++ | 5 | 2022-06-15
 [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) | [Feedback](ad-hoc/1546.cpp) | AD-HOC | C++ | 1 | 2022-06-03
 [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) | [Frase Completa](strings/1551.cpp) | Strings | C++ | 4 | 2022-06-07
 [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) | [Funções](matematica/1555.cpp) | Matemática | C++ | 1 | 2022-05-19
