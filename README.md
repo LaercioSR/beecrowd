@@ -196,6 +196,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1805](https://www.beecrowd.com.br/judge/pt/problems/view/1805) | [Soma Natural](matematica/1805.cpp) | Matemática | C++ | 6 | 2022-06-08
 [1828](https://www.beecrowd.com.br/judge/pt/problems/view/1828) | [Bazinga!](iniciante/1828.cpp) | Iniciante | C++ | 4 | 2022-05-24
 [1847](https://www.beecrowd.com.br/judge/pt/problems/view/1847) | [Bem-vindos e Bem-vindas ao Inverno!](iniciante/1847.cpp) | Iniciante | C++ | 4 | 2022-06-07
+[1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) | [Nossos Dias Nunca Voltarão](iniciante/1864.cpp) | Iniciante | C++ | 2 | 2022-06-16
 [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) | [Mjölnir](iniciante/1865.cpp) | Iniciante | C++ | 1 | 2022-05-29
 [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-06-06
 [1907](https://www.beecrowd.com.br/judge/pt/problems/view/1907) | [Coloração de Cenários de Jogos](grafos/1907.cpp) | Grafos | C++ | 5 | 2022-06-11
