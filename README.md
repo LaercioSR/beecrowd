@@ -177,6 +177,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1467](https://www.beecrowd.com.br/judge/pt/problems/view/1467) | [Zerinho ou Um](ad-hoc/1467.cpp) | AD-HOC | C++ | 2 | 2022-05-29
 [1471](https://www.beecrowd.com.br/judge/pt/problems/view/1471) | [Mergulho](ad-hoc/1471.cpp) | AD-HOC | C++ | 3 | 2022-06-10
 [1478](https://www.beecrowd.com.br/judge/pt/problems/view/1478) | [Matriz Quadrada II](iniciante/1478.cpp) | Iniciante | C++ | 1 | 2022-05-28
+[1514](https://www.beecrowd.com.br/judge/pt/problems/view/1514) | [Competição](ad-hoc/1514.cpp) | AD-HOC | C++ | 5 | 2022-06-17
 [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515) | [Hello Galaxy](ad-hoc/1515.cpp) | AD-HOC | C++ | 1 | 2022-06-11
 [1533](https://www.beecrowd.com.br/judge/pt/problems/view/1533) | [Detetive Watson](ad-hoc/1533.cpp) | AD-HOC | C++ | 2 | 2022-06-08
 [1534](https://www.beecrowd.com.br/judge/pt/problems/view/1534) | [Matriz 123](iniciante/1534.cpp) | Iniciante | C++ | 1 | 2022-05-23
@@ -215,6 +216,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2371](https://www.beecrowd.com.br/judge/pt/problems/view/2371) | [Batalha Naval](ad-hoc/2371.cpp) | AD-HOC | C++ | 8 | 2022-05-26
 [2374](https://www.beecrowd.com.br/judge/pt/problems/view/2374) | [Pneu](ad-hoc/2374.cpp) | AD-HOC | C++ | 1 | 2022-05-25
 [2413](https://www.beecrowd.com.br/judge/pt/problems/view/2413) | [Busca na Internet](ad-hoc/2413.cpp) | AD-HOC | C++ | 1 | 2022-06-06
+[2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) | [Corrida](ad-hoc/2416.cpp) | AD-HOC | C++ | 1 | 2022-06-17
 [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) | [Flíper](ad-hoc/2454.cpp) | AD-HOC | C++ | 1 | 2022-06-01
 [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) | [Gangorra](ad-hoc/2455.cpp) | AD-HOC | C++ | 1 | 2022-06-09
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
@@ -232,6 +234,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2615](https://www.beecrowd.com.br/judge/pt/problems/view/2615) | [Expandindo o Negocio](sql/2615.sql) | SQL | PostgreSQL | 1 | 2021-12-12
 [2616](https://www.beecrowd.com.br/judge/pt/problems/view/2616) | [Nenhuma Locação](sql/2616.sql) | SQL | PostgreSQL | 5 | 2021-12-12
 [2617](https://www.beecrowd.com.br/judge/pt/problems/view/2617) | [Fornecedor Ajax SA](sql/2617.sql) | SQL | PostgreSQL | 1 | 2021-12-12
+[2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) | [Sucessor Par](ad-hoc/2679.cpp) | AD-HOC | C++ | 1 | 2022-06-17
 [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) | [Saída 1](iniciante/2747.c) | Iniciante | C | 1 | 2018-08-13
 [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) | [Saída 2](iniciante/2748.c) | Iniciante | C | 1 | 2018-08-13
 [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) | [Saída 3](iniciante/2749.py) | Iniciante | Python 3 | 2 | 2019-09-25
