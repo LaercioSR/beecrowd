@@ -184,10 +184,12 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1536](https://www.beecrowd.com.br/judge/pt/problems/view/1536) | [Libertadores](ad-hoc/1536.cpp) | AD-HOC | C++ | 3 | 2022-06-15
 [1542](https://www.beecrowd.com.br/judge/pt/problems/view/1542) | [Lendo Livros](ad-hoc/1542.cpp) | AD-HOC | C++ | 5 | 2022-06-15
 [1546](https://www.beecrowd.com.br/judge/pt/problems/view/1546) | [Feedback](ad-hoc/1546.cpp) | AD-HOC | C++ | 1 | 2022-06-03
+[1548](https://www.beecrowd.com.br/judge/pt/problems/view/1548) | [Fila do Recreio](estruturas/1548.cpp) | Estruturas e Bibliotecas | C++ | 2 | 2022-06-20
 [1551](https://www.beecrowd.com.br/judge/pt/problems/view/1551) | [Frase Completa](strings/1551.cpp) | Strings | C++ | 4 | 2022-06-07
 [1555](https://www.beecrowd.com.br/judge/pt/problems/view/1555) | [Funções](matematica/1555.cpp) | Matemática | C++ | 1 | 2022-05-19
 [1557](https://www.beecrowd.com.br/judge/pt/problems/view/1557) | [Matriz Quadrada III](iniciante/1557.cpp) | Iniciante | C++ | 1 | 2022-06-06
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
+[1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) | [Instruções do Robô](ad-hoc/1574.cpp) | AD-HOC | C++ | 2 | 2022-06-18
 [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) | [Bob Conduite](iniciante/1589.cpp) | Iniciante | C++ | 1 | 2022-05-22
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
@@ -200,6 +202,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1864](https://www.beecrowd.com.br/judge/pt/problems/view/1864) | [Nossos Dias Nunca Voltarão](iniciante/1864.cpp) | Iniciante | C++ | 2 | 2022-06-16
 [1865](https://www.beecrowd.com.br/judge/pt/problems/view/1865) | [Mjölnir](iniciante/1865.cpp) | Iniciante | C++ | 1 | 2022-05-29
 [1866](https://www.beecrowd.com.br/judge/pt/problems/view/1866) | [Conta](iniciante/1866.cpp) | Iniciante | C++ | 1 | 2022-06-06
+[1871](https://www.beecrowd.com.br/judge/pt/problems/view/1871) | [Zero vale Zero](strings/1871.cpp) | Strings | C++ | 1 | 2022-06-19
 [1907](https://www.beecrowd.com.br/judge/pt/problems/view/1907) | [Coloração de Cenários de Jogos](grafos/1907.cpp) | Grafos | C++ | 5 | 2022-06-11
 [1924](https://www.beecrowd.com.br/judge/pt/problems/view/1924) | [Vitória e a Indecisão](iniciante/1924.cpp) | Iniciante | C++ | 1 | 2022-06-14
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
@@ -210,6 +213,8 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) | [Cachorros-Quentes](iniciante/2234.cpp) | Iniciante | C++ | 1 | 2022-06-06
 [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) | [Triângulos e Polígonos Regulares](ad-hoc/2058.cpp) | AD-HOC | C++ | 1 | 2022-06-12
 [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) | [Desafio de Bino](iniciante/2060.cpp) | Iniciante | C++ | 1 | 2022-05-29
+[2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) | [Huaauhahhuahau](strings/2242.cpp) | Strings | C++ | 2 | 2022-06-19
+[2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) | [Validador de Senhas](strings/2253.cpp) | Strings | C++ | 5 | 2022-06-19
 [2342](https://www.beecrowd.com.br/judge/pt/problems/view/2342) | [Overflow](ad-hoc/2342.cpp) | AD-HOC | C++ | 1 | 2022-06-05
 [2369](https://www.beecrowd.com.br/judge/pt/problems/view/2369) | [Conta de Água](ad-hoc/2369.cpp) | AD-HOC | C++ | 1 | 2022-05-25
 [2370](https://www.beecrowd.com.br/judge/pt/problems/view/2370) | [Times](ad-hoc/2370.cpp) | AD-HOC | C++ | 3 | 2022-05-27
