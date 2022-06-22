@@ -162,6 +162,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1245](https://www.beecrowd.com.br/judge/pt/problems/view/1245) | [Botas Perdidas](ad-hoc/1245.cpp) | AD-HOC | C++ | 5 | 2022-06-06
 [1253](https://www.beecrowd.com.br/judge/pt/problems/view/1253) | [Cifra de César](strings/1253.cpp) | Strings | C++ | 3 | 2022-05-22
 [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) | [Frequência de Letras](strings/1255.cpp) | Strings | C++ | 3 | 2022-06-01
+[1257](https://www.beecrowd.com.br/judge/pt/problems/view/1257) | [Array Hash](strings/1257.cpp) | Strings | C++ | 3 | 2022-06-22
 [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Pares e Ímpares](estruturas/1259.cpp) | Estruturas e Bibliotecas | C++ | 4 | 2022-05-31
 [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) | [Mensagem Oculta](strings/1272.cpp) | Strings | C++ | 3 | 2022-06-01
 [1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) | [Ida à Feira](estruturas/1281.cpp) | Estruturas e Bibliotecas | C++ | 3 | 2022-06-20
