@@ -164,6 +164,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1255](https://www.beecrowd.com.br/judge/pt/problems/view/1255) | [Frequência de Letras](strings/1255.cpp) | Strings | C++ | 3 | 2022-06-01
 [1259](https://www.beecrowd.com.br/judge/pt/problems/view/1259) | [Pares e Ímpares](estruturas/1259.cpp) | Estruturas e Bibliotecas | C++ | 4 | 2022-05-31
 [1272](https://www.beecrowd.com.br/judge/pt/problems/view/1272) | [Mensagem Oculta](strings/1272.cpp) | Strings | C++ | 3 | 2022-06-01
+[1281](https://www.beecrowd.com.br/judge/pt/problems/view/1281) | [Ida à Feira](estruturas/1281.cpp) | Estruturas e Bibliotecas | C++ | 3 | 2022-06-20
 [1285](https://www.beecrowd.com.br/judge/pt/problems/view/1285) | [Dígitos Diferentes](ad-hoc/1285.cpp) | AD-HOC | C++ | 3 | 2022-06-13
 [1318](https://www.beecrowd.com.br/judge/pt/problems/view/1318) | [Bilhetes Falsos](ad-hoc/1318.cpp) | AD-HOC | C++ | 3 | 2022-06-07
 [1329](https://www.beecrowd.com.br/judge/pt/problems/view/1329) | [Cara ou Coroa](ad-hoc/1329.cpp) | AD-HOC | C++ | 2 | 2022-05-29
@@ -208,6 +209,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1930](https://www.beecrowd.com.br/judge/pt/problems/view/1930) | [Tomadas](iniciante/1930.cpp) | Iniciante | C++ | 1 | 2022-05-23
 [1933](https://www.beecrowd.com.br/judge/pt/problems/view/1933) | [Tri-du](iniciante/1933.cpp) | Iniciante | C++ | 1 | 2022-05-28
 [1943](https://www.beecrowd.com.br/judge/pt/problems/view/1943) | [Top N](ad-hoc/1943.cpp) | AD-HOC | C++ | 1 | 2022-06-08
+[1985](https://www.beecrowd.com.br/judge/pt/problems/view/1985) | [MacPRONALTS](iniciante/1985.cpp) | Iniciante | C++ | 1 | 2022-06-21
 [2006](https://www.beecrowd.com.br/judge/pt/problems/view/2006) | [Identificando o Chá](iniciante/2006.cpp) | Iniciante | C++ | 1 | 2022-05-29
 [2057](https://www.beecrowd.com.br/judge/pt/problems/view/2057) | [Fuso Horário](iniciante/2057.cpp) | Iniciante | C++ | 2 | 2022-05-30
 [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) | [Cachorros-Quentes](iniciante/2234.cpp) | Iniciante | C++ | 1 | 2022-06-06
