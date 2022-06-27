@@ -196,6 +196,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) | [Instruções do Robô](ad-hoc/1574.cpp) | AD-HOC | C++ | 2 | 2022-06-18
 [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) | [Conversa Internacional](strings/1581.cpp) | Strings | C++ | 2 | 2022-06-23
 [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) | [Bob Conduite](iniciante/1589.cpp) | Iniciante | C++ | 1 | 2022-05-22
+[1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) | [Avance as Letras](strings/1607.cpp) | Strings | C++ | 2 | 2022-06-25
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
 [1759](https://www.beecrowd.com.br/judge/pt/problems/view/1759) | [Ho Ho Ho](iniciante/1759.cpp) | Iniciante | C++ | 1 | 2022-05-18
 [1789](https://www.beecrowd.com.br/judge/pt/problems/view/1789) | [A Corrida de Lesmas](iniciante/1789.cpp) | Iniciante | C++ | 3 | 2022-05-24
@@ -220,6 +221,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2058](https://www.beecrowd.com.br/judge/pt/problems/view/2058) | [Triângulos e Polígonos Regulares](ad-hoc/2058.cpp) | AD-HOC | C++ | 1 | 2022-06-12
 [2060](https://www.beecrowd.com.br/judge/pt/problems/view/2060) | [Desafio de Bino](iniciante/2060.cpp) | Iniciante | C++ | 1 | 2022-05-29
 [2137](https://www.beecrowd.com.br/judge/pt/problems/view/2137) | [A Biblioteca do Senhor Severino](strings/2137.cpp) | Strings | C++ | 1 | 2022-06-23
+[2174](https://www.beecrowd.com.br/judge/pt/problems/view/2174) | [Coleção de Pomekon](strings/2174.cpp) | Strings | C++ | 3 | 2022-06-27
 [2234](https://www.beecrowd.com.br/judge/pt/problems/view/2234) | [Cachorros-Quentes](iniciante/2234.cpp) | Iniciante | C++ | 1 | 2022-06-06
 [2242](https://www.beecrowd.com.br/judge/pt/problems/view/2242) | [Huaauhahhuahau](strings/2242.cpp) | Strings | C++ | 2 | 2022-06-19
 [2253](https://www.beecrowd.com.br/judge/pt/problems/view/2253) | [Validador de Senhas](strings/2253.cpp) | Strings | C++ | 5 | 2022-06-19
@@ -254,6 +256,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) | [Fibonot](iniciante/2846.c) | Iniciante | C | 4 | 2018-08-13
 [2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) | [Errrou!](ad-hoc/2868.cpp) | AD-HOC | C++ | 1 | 2021-12-07
 [3084](https://www.beecrowd.com.br/judge/pt/problems/view/3084) | [Relógio Antigo](iniciante/3084.cpp) | Iniciante | C++ | 5 | 2022-06-03
+[3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) | [A Batalha dos Cinco Exércitos](iniciante/3147.cpp) | Iniciante | C++ | 1 | 2022-06-26
 [3358](https://www.beecrowd.com.br/judge/pt/problems/view/3358) | [Sobrenome Não é Fácil](strings/3358.cpp) | Strings | C++ | 1 | 2022-06-24
 
 ### Contents
