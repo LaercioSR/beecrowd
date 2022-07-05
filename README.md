@@ -198,6 +198,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [1564](https://www.beecrowd.com.br/judge/pt/problems/view/1564) | [Vai Ter Copa?](iniciante/1564.cpp) | Iniciante | C++ | 2 | 2022-05-18
 [1574](https://www.beecrowd.com.br/judge/pt/problems/view/1574) | [Instruções do Robô](ad-hoc/1574.cpp) | AD-HOC | C++ | 2 | 2022-06-18
 [1581](https://www.beecrowd.com.br/judge/pt/problems/view/1581) | [Conversa Internacional](strings/1581.cpp) | Strings | C++ | 2 | 2022-06-23
+[1585](https://www.beecrowd.com.br/judge/pt/problems/view/1585) | [Fazendo Pandorgas](matematica/1585.cpp) | Matemática | C++ | 1 | 2022-07-02
 [1589](https://www.beecrowd.com.br/judge/pt/problems/view/1589) | [Bob Conduite](iniciante/1589.cpp) | Iniciante | C++ | 1 | 2022-05-22
 [1607](https://www.beecrowd.com.br/judge/pt/problems/view/1607) | [Avance as Letras](strings/1607.cpp) | Strings | C++ | 2 | 2022-06-25
 [1743](https://www.beecrowd.com.br/judge/pt/problems/view/1743) | [Máquina de Verificação Automatizada](ad-hoc/1743.cpp) | AD-HOC | C++ | 1 | 2022-06-07
@@ -241,6 +242,7 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2416](https://www.beecrowd.com.br/judge/pt/problems/view/2416) | [Corrida](ad-hoc/2416.cpp) | AD-HOC | C++ | 1 | 2022-06-17
 [2454](https://www.beecrowd.com.br/judge/pt/problems/view/2454) | [Flíper](ad-hoc/2454.cpp) | AD-HOC | C++ | 1 | 2022-06-01
 [2455](https://www.beecrowd.com.br/judge/pt/problems/view/2455) | [Gangorra](ad-hoc/2455.cpp) | AD-HOC | C++ | 1 | 2022-06-09
+[2591](https://www.beecrowd.com.br/judge/pt/problems/view/2591) | [HameKameKa](strings/2591.cpp) | Strings | C++ | 1 | 2022-06-04
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [Select Básico](sql/2602.sql) | SQL | PostgreSQL | 4 | 2018-08-13
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [Endereço dos Clientes](sql/2603.sql) | SQL | PostgreSQL | 1 | 2019-09-25
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) | [Menores que 10 ou Maiores que 100](sql/2604.sql) | SQL | PostgreSQL | 2 | 2018-08-13
@@ -257,10 +259,12 @@ ID | Challenge | Category | Language | Level | Submission Date
 [2616](https://www.beecrowd.com.br/judge/pt/problems/view/2616) | [Nenhuma Locação](sql/2616.sql) | SQL | PostgreSQL | 5 | 2021-12-12
 [2617](https://www.beecrowd.com.br/judge/pt/problems/view/2617) | [Fornecedor Ajax SA](sql/2617.sql) | SQL | PostgreSQL | 1 | 2021-12-12
 [2679](https://www.beecrowd.com.br/judge/pt/problems/view/2679) | [Sucessor Par](ad-hoc/2679.cpp) | AD-HOC | C++ | 1 | 2022-06-17
+[2694](https://www.beecrowd.com.br/judge/pt/problems/view/2694) | [Problema com a Calculadora](strings/2694.cpp) | Strings | C++ | 1 | 2022-07-05
 [2747](https://www.beecrowd.com.br/judge/pt/problems/view/2747) | [Saída 1](iniciante/2747.c) | Iniciante | C | 1 | 2018-08-13
 [2748](https://www.beecrowd.com.br/judge/pt/problems/view/2748) | [Saída 2](iniciante/2748.c) | Iniciante | C | 1 | 2018-08-13
 [2749](https://www.beecrowd.com.br/judge/pt/problems/view/2749) | [Saída 3](iniciante/2749.py) | Iniciante | Python 3 | 2 | 2019-09-25
 [2846](https://www.beecrowd.com.br/judge/pt/problems/view/2846) | [Fibonot](iniciante/2846.c) | Iniciante | C | 4 | 2018-08-13
+[2866](https://www.beecrowd.com.br/judge/pt/problems/view/2866) | [Criptotexto](strings/2866.cpp) | Strings | C++ | 2 | 2022-07-03
 [2868](https://www.beecrowd.com.br/judge/pt/problems/view/2868) | [Errrou!](ad-hoc/2868.cpp) | AD-HOC | C++ | 1 | 2021-12-07
 [3084](https://www.beecrowd.com.br/judge/pt/problems/view/3084) | [Relógio Antigo](iniciante/3084.cpp) | Iniciante | C++ | 5 | 2022-06-03
 [3147](https://www.beecrowd.com.br/judge/pt/problems/view/3147) | [A Batalha dos Cinco Exércitos](iniciante/3147.cpp) | Iniciante | C++ | 1 | 2022-06-26
